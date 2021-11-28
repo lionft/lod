@@ -1,0 +1,29 @@
+{
+  "CONTRACT_ADDRESS": "0x201a59820Ba225Bf994960d6D3f428069b51888f",
+  "OWNER_ADDRESS": "0x6d2dE418917cf8697372BDa07C28e6092D5d9A06",
+  "SCAN_LINK": "https://etherscan.io/address/0x201a59820Ba225Bf994960d6D3f428069b51888f",
+  "NETWORK": {
+    "NAME": "Rinkeby Test Network",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "Crypto clone",
+  "SYMBOL": "Clone",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 0,
+  
+  "COST1": 20000000000000000,
+  "COST2": 35000000000000000,
+
+  "COST4": 900000000000000,
+
+  "COST3": 800000000000000,
+
+  
+
+  "DISPLAY_COST": 0.02,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/cryptoclone",
+  "SHOW_BACKGROUND": true
+}
